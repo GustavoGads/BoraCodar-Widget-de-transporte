@@ -41,6 +41,8 @@ p {
 #driver-img {
     width: 137px;
     height: 137px;
+
+    border-radius: 50%;
 }
 
 #car-img {
